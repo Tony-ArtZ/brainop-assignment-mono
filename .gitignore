@@ -1,0 +1,6 @@
+**/client/react/node_modules
+**/client/react/.env
+server/.env
+server/node_modules
+node_modules
+.env
