@@ -1,5 +1,5 @@
-**/client/react/node_modules
-**/client/react/.env
+client/node_modules
+client/.env
 server/.env
 server/node_modules
 node_modules
